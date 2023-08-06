@@ -72,14 +72,19 @@
 │
 ├── 팀장
 │   └── dummy.txt
-├── 팀원1
-│   └── dummy.txt
-├── 팀원2
-│   └── dummy.txt
-├── 팀원3
-│   └── dummy.txt
-├── EDA_4조_발표자료.pdf
-├── EDA_4조_코드.ipynb
+├── 임창재
+│   ├── Preprocessing_ChangjaeIm.ipynb
+|   └── Lecture_type_preprocessing.ipynb
+├── 김영호
+│   ├── Preprocessing.ipynb
+|   ├── Preprocessing_KimYeongho.ipynb
+|   ├── difficulty.ipynb
+|   ├── finaldata.csv
+|   ├── plot.ipynb
+|   └── test.ipynb
+├── 신재우
+│   └── Preprocessing.ipynb
+├── EDA_B조_발표자료.pdf
 │   
 │
 └── README.md
